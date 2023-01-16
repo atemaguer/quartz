@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/templates/post.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/templates/post.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/templates/post.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/templates/post.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5406040a69828c13",
+  "active": "699ae9dcd2d15e68",
   "lastOpenFiles": [
-    "content/_index.md",
-    "CODE_OF_CONDUCT.md",
-    "content/private/private-note.md",
     "content/templates/post.md",
+    "content/notes/setup.md",
+    "content/notes/search.md",
+    "content/notes/philosophy.md",
+    "content/notes/hosting.md",
+    "screenshot.png",
     "README.md",
-    "content/notes/callouts.md",
-    "content/notes/config.md",
-    "content/notes/editing.md",
-    "content/notes/docker.md",
-    "content/notes/obsidian.md"
+    "CODE_OF_CONDUCT.md",
+    "content/_index.md",
+    "content/private/private-note.md"
   ]
 }
