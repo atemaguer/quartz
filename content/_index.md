@@ -1,7 +1,8 @@
 ---
 title: Atem Aguer
-enableToc: false
 ---
+
+<!-- <img src="./banner.svg" width="701" height="183"> -->
 
 Hi! I’m Atem Aguer, a student studying computer science at Stanford.
 
