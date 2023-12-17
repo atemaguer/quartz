@@ -14,4 +14,4 @@ In my spare time, I hack on open-source projects, play football, lift weights, a
 
 You can get in touch with me through [email](mailto:atemjohn@stanford.edu) or [twitter](https://x.com/leithnyang).
 
-Also, my past technical work can be found [here](https://github.com/atemaguer).
+Also, my technical work can be found [here](https://github.com/atemaguer).
