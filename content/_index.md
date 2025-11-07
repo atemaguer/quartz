@@ -4,13 +4,13 @@ title: Atem Aguer
 
 <!-- <img src="./banner.svg" width="701" height="183"> -->
 
-Hi! I’m Atem Aguer, a student studying computer science at Stanford.
+Hi! I’m Atem Aguer. I previously studied Computer Science at Stanford where I recieved my BS & MS in Computer Science concentrating in AI and systems.
 
-Welcome to my blog where I hope to explore my curiosities, document my learnings, and practice my writing. I’ve broad and varied interests spanning technology and startups, physics, football(soccer), AI, among many other things.
+I’ve broad and varied interests spanning technology and startups, Fútbol (GGMU), AI, among many other things.
 
-In the past, I’ve built marketplace applications and infrastructure for a startup during my gap year after high school, was an early intern at [Alchemy](https://alchemy.com) during [DeFi summer](https://wiki.rugdoc.io/docs/defi-summer-definition/), researched NLP and information retrieval systems at [Stanford Future Data Systems](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) under the guidance of [Omar Khattab](https://omarkhattab.com/), [Keshav Santhanam](https://cs.stanford.edu/~keshav2/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), and worked on distributed storage infrastructure at DoorDash.
+In the past, I was a founding full-stack engineer (mobile & web) for a startup during my gap year after high school, was an early intern at [Alchemy](https://alchemy.com) during [DeFi summer](https://wiki.rugdoc.io/docs/defi-summer-definition/), researched NLP, Information Retrieval, and distributed systems at [Stanford Future Data Systems](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) under the guidance of [Omar Khattab](https://omarkhattab.com/), [Keshav Santhanam](https://cs.stanford.edu/~keshav2/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/), worked on distributed storage infrastructure at DoorDash, and led AI engineering efforts at Codegen, an early coding agents startup.
 
-In my spare time, I hack on open-source projects, play football, lift weights, and hike.
+In my spare time, I hack on open-source projects, play soccer, lift weights, take long walks, and watch TV shows.
 
 You can get in touch with me through [email](mailto:atemjohn@stanford.edu) or [twitter](https://x.com/leithnyang).
 
