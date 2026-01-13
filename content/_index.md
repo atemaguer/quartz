@@ -4,7 +4,7 @@ title: Atem Aguer
 
 <!-- <img src="./banner.svg" width="701" height="183"> -->
 
-Hi! I’m Atem Aguer. I previously studied at Stanford where I recieved my BS & MS in Computer Science concentrating in AI and computer systems.
+Hi! I'm Atem Aguer. I'm currently pursuing my MS in Computer Science at Stanford, concentrating in AI and computer systems. I previously received my BS in Computer Science from Stanford.
 
 I’ve broad and varied interests spanning technology and startups, Fútbol (GGMU), AI, among many other things. In my technical work, I'm interested in systems for machine learning.
 
