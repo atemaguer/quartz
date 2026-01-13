@@ -21,24 +21,26 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     // Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    Component.MobileOnly(Component.PageTitle()),
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        // {
-        //   Component: Component.Search(),
-        //   grow: true,
-        // },
-        { Component: Component.MobileOnly(Component.Darkmode()) },
-        // { Component: Component.ReaderMode() },
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
       ],
     }),
-    // Component.Explorer(),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.Darkmode()),
