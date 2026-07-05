@@ -1,6 +1,6 @@
 ---
 title: "Learn By Doing: How Theory Emerges from Practice"
-date: "2025-07-14"
+published: "2025-07-14"
 tags:
   - seed
 ---

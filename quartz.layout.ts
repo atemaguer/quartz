@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ArticleTitle(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    // Component.ContentMeta(),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [

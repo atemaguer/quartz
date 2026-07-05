@@ -1,6 +1,6 @@
 ---
 title: "How ChatGPT Learns to Converse and Reason"
-date: "2025-09-06"
+published: "2025-09-06"
 tags:
   - seed
 ---
@@ -10,6 +10,7 @@ Base large language models—models that have only been pre-trained on raw text 
 Training a base model to mimic and assume the persona of a chatbot involves formatting text data in a chat format and then fine-tuning the model on many examples of conversations in that format. The model learns to imitate the pattern. As an example, let's consider a very simple chat format involving a conversation between an LLM assistant and a user:
 
 **Basic Chat Format:**
+
 ```text
 User: Hi Chat
 Assistant: Hi there, how may I help you?
@@ -30,6 +31,7 @@ With this foundation in mind, let's talk about the popular chat formats out ther
 ChatML stands for Chat Markup Language. It's a chat format inspired by XML and used by most open source language models like Qwen from Alibaba. The [original spec](https://github.com/openai/openai-python/blob/v0.28.1/chatml.md) can be found in older versions of OpenAI's Python repository. The special tokens in the basic ChatML format are `<|im_start|>` and `<|im_end|>`, which denote conversation message boundaries.
 
 **ChatML Format:**
+
 ```xml
 <|im_start|>user
 Hi Chat<|im_end|>
@@ -51,6 +53,7 @@ Sure, I can help with that! Quantum mechanics....<|im_end|>
 The other popular chat format is [Harmony](https://github.com/openai/harmony), created and used by OpenAI for all their chat completion and responses API models. Harmony is similar to ChatML in structure, but more complex with many more special tokens.
 
 The basic tokens are:
+
 - `<|start|>` — begins a message
 - `<|end|>` — ends a message
 - `<|message|>` — marks message content
@@ -60,6 +63,7 @@ The basic tokens are:
 The assistant has to specify which channel the message is being output to. Only messages on the "final" channel are shown to the user—other channels like "analysis" and "commentary" are hidden and used for internal reasoning or tool orchestration.
 
 **Harmony Format:**
+
 ```xml
 <|start|>user<|message|>Hi Chat<|end|>
 
@@ -133,6 +137,7 @@ Tool definitions are provided through a **system prompt** (or **developer prompt
 ChatML uses the system message to specify assistant identity, tool definitions, and any relevant context. It uses JSON schema to define tools and special `<tool_call>` tokens to invoke them:
 
 **System Message with Tools:**
+
 ```xml
 <|im_start|>system
 You're ChatML, a helpful chat assistant.
@@ -163,6 +168,7 @@ For each function call, return a json object within <tool_call> tags.<|im_end|>
 ```
 
 **Tool Call Example:**
+
 ```xml
 <|im_start|>user
 What's the current weather in San Francisco?<|im_end|>
@@ -204,18 +210,17 @@ One key difference is that Harmony places tool definitions in the **developer me
 4. **Tool responses** — least trusted
 
 **Harmony Tool Definition:**
+
 ```typescript
 // Developer message uses TypeScript-style definitions
 namespace functions {
   // Get weather for a city
-  type get_weather = (_: {
-    city: string,
-    unit?: "celsius" | "fahrenheit",
-  }) => any;
+  type get_weather = (_: { city: string; unit?: "celsius" | "fahrenheit" }) => any
 }
 ```
 
 **Harmony Tool Call:**
+
 ```xml
 <|start|>user<|message|>
 What's the current weather in San Francisco?<|end|>

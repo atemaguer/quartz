@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "atemaguer.com",
     locale: "en-US",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
