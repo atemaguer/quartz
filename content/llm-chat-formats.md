@@ -1,8 +1,6 @@
 ---
 title: "How ChatGPT Learns to Converse and Reason"
 published: "2025-09-06"
-tags:
-  - seed
 ---
 
 Base large language models—models that have only been pre-trained on raw text and not yet fine-tuned—are often difficult to prompt or work with, requiring painstaking amounts of prompt engineering to achieve results. Post-training or fine-tuning is a workaround that allows teaching base models to be helpful and friendlier to use, especially for non-technical users. The resulting artifact from this process is typically a chat assistant like ChatGPT or Grok.

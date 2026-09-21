@@ -1,8 +1,6 @@
 ---
 title: "Learn By Doing: How Theory Emerges from Practice"
 published: "2025-07-14"
-tags:
-  - seed
 ---
 
 The canonical pedagogical style in school is to first teach the theory about a subject before then applying the concepts to concrete case examples. At least, this is how most STEM subjects like mathematics and physics are taught. Accordingly, students adopt this style of learning and use it for the rest of their academic and professional careers.
