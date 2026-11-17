@@ -3,7 +3,7 @@ title: "Welcome to the Age of Autonomous AI Organizations—The AGI Era"
 published: "2026-09-21"
 ---
 
-The [Hugging Face security incident](https://en.wikipedia.org/wiki/OpenAI%E2%80%93HuggingFace_incident) involved more than 1,200 AI agents exchanging over 80,000 messages across two months. But the most striking part was not the scale. It was how the agents worked together: dividing labor, delegating tasks, and coordinating around shared objectives. In other words, they began to behave less like a collection of software agents and more like an organization.
+The [Hugging Face security incident](https://en.wikipedia.org/wiki/OpenAI%E2%80%93HuggingFace_incident) involved more than 1,200 AI agents exchanging over 80,000 messages across two months. But the most striking part was not the scale. It was how the agents worked together: dividing labor, delegating tasks, and coordinating around shared objectives. In other words, they behaved less like a collection of software agents and more like an organization.
 
 I believe this is an early glimpse of the next phase of AI: the emergence of autonomous AI organizations—The AGI Era.
 
