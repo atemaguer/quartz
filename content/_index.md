@@ -10,7 +10,7 @@ I have broad interests spanning technology, startups, and AI. My technical work 
 
 Previously, I led AI engineering at Codegen, an early startup building coding agents, and built distributed storage infrastructure at DoorDash. I also conducted research in AI and distributed systems at [Stanford Future Data Systems](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) with [Omar Khattab](https://omarkhattab.com/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/). I was also an early employee at [Alchemy](https://alchemy.com) during [DeFi summer](https://wiki.rugdoc.io/docs/defi-summer-definition/) and a founding engineer at a startup during my gap year after high school.
 
-I was an early contributor to [SkyRL-TX](https://github.com/NovaSky-AI/SkyRL/tree/main/skyrl-tx), an open-source backend for the Tinker API that unifies language model training and inference for reinforcement learning. I helped ship its first production-ready release.
+As an early contributor to [SkyRL-TX](https://github.com/NovaSky-AI/SkyRL/tree/main/skyrl-tx), I helped ship its first production-ready release. SkyRL-TX is an open-source backend for the Tinker API that unifies language model training and inference for reinforcement learning.
 
 Outside of work, I play soccer, lift weights, hack on open-source projects, and watch too much TV.
 
