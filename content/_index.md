@@ -6,7 +6,7 @@ title: Atem Aguer
 
 Hi! I'm Atem Aguer. I'm currently pursuing a master's degree at Stanford, where I also earned my BS in Computer Science. My studies have focused on AI and computer systems.
 
-I have broad interests in technology, startups, and AI. In my technical work, I focus on coding agents, RL, and systems for machine learning.
+I have broad interests spanning technology, startups, and AI. My technical work focuses on coding agents, reinforcement learning, and machine learning systems.
 
 Previously, I led AI engineering at Codegen (an early coding agents startup), built distributed storage infrastructure at DoorDash, and researched NLP and distributed systems at [Stanford Future Data Systems](http://www.futuredata.io.s3-website-us-west-2.amazonaws.com/) with [Omar Khattab](https://omarkhattab.com/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/). I was also an early employee at [Alchemy](https://alchemy.com) during [DeFi summer](https://wiki.rugdoc.io/docs/defi-summer-definition/) and a founding engineer at a startup during my gap year after high school.
 
